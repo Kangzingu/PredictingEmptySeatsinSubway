@@ -1,0 +1,65 @@
+﻿  MFCApplication1_0605projectView.cpp
+c:\users\kanrh\downloads\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\kanrh\downloads\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\kanrh\downloads\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\kanrh\downloads\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(312): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(344): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(396): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(397): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(398): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(400): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(412): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(413): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(414): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(474): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(475): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(476): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(477): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(482): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(483): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(484): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(485): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(490): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(491): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(492): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(493): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(496): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(497): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(498): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(581): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(754): warning C4244: '=': 'float'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(839): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(840): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(958): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(959): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1061): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1062): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1096): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1097): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1098): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1112): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1113): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1114): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1137): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1158): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1159): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1160): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1161): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1166): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1167): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1168): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1169): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1174): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1175): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1176): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1177): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1180): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1181): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanrh\source\repos\mfcapplication1_0605project\mfcapplication1_0605project\mfcapplication1_0605projectview.cpp(1182): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  MFCApplication1_0605project.cpp
+  MFCApplication1_0605project.vcxproj -> C:\Users\kanrh\source\repos\MFCApplication1_0605project\Debug\MFCApplication1_0605project.exe
+  MFCApplication1_0605project.vcxproj -> C:\Users\kanrh\source\repos\MFCApplication1_0605project\Debug\MFCApplication1_0605project.pdb (Partial PDB)
